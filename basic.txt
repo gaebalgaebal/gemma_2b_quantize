@@ -1,0 +1,5 @@
+conda activate gemma_env
+----cd 2-2-2-
+python baseline.py
+python int4_gptq.py
+python baseline_vs_int4_plot.py
